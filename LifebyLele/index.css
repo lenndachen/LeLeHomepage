@@ -6,6 +6,7 @@ a:visited {
   text-align: center;
   text-decoration: none;
   float: right;
+  margin-top: 4px;
 }
 
 img .image1 {
@@ -26,11 +27,20 @@ a:visited {
 h1 {
   display: flex-start;
   font-family: "Barriecito", cursive;
-  font-size: 4em;
+  font-size: 3em;
   padding: 8px;
+}
+h6{
+  font-size:20px;
+  text-align:center;
+  font-color:blue;
 }
 
 h2 {
   font-family: "Mountains of Christmas", cursive;
   justify-content: flex-start;
+}
+
+header{
+  margin:2px;
 }
